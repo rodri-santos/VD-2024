@@ -7,5 +7,6 @@
 - *Projeto 2* (Grupo de 2, com Mafalda Duarte):
   O dataset que escolhemos foi sobre videojogos, algo que ambos tínhamos interesse. O objetivo foi desenvolver visualizações interativas para analisar padrões e tendências nas vendas de videojogos ao longo do 
   tempo, segmentadas por diferentes fatores como região, género e editoras. Definimos os nossos *target users* e problemas que as nossas visualizações deviam resolver.
+  Contém também o relatório do trabalho realizado.
 
 Ambos os projetos foram feitos em Python, com o uso das bibliotecas: Plotly (Graph Objects e Express), Pandas e NumPy.
